@@ -10,12 +10,14 @@ Go to the hackSpace workshop and book it with the hS-Team.
 KU ACCESS:
 
 To watch the induction-video below, you will be asked to log-in using your KU account. 
+
 -----
 
 INDUCTION VIDEO:
 
 https://kingstonuniversity.sharepoint.com/:v:/s/DMWSupportmst2/ER7PXfkNLDZBks4nt97AwdgBDxRimjLdb_1FTvhKeE3NBQ?e=sYFcPr
 
+-----
 
 ASSESSMENT QUIZ:
 

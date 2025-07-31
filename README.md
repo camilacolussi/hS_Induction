@@ -24,4 +24,4 @@ ASSESSMENT QUIZ:
 Please complete the quiz below. 
 100% correct answers are necessary to successfully pass the induction. 
 
-LINK
+QUIZ_LINK

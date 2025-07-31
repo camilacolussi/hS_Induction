@@ -5,11 +5,12 @@ EQUIPMENT REQUIRED:
 To complete the induction, you will need to book the hackSpace-Remote-Induction-Kit.
 Go to the hackSpace workshop and book it with the hS-Team.
 
+-----
 
 KU ACCESS:
 
 To watch the induction-video below, you will be asked to log-in using your KU account. 
-
+-----
 
 INDUCTION VIDEO:
 

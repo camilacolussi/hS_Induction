@@ -25,3 +25,13 @@ Please complete the quiz below.
 100% correct answers are necessary to successfully pass the induction. 
 
 QUIZ_LINK
+
+------
+
+FURTHER LEARNING
+
+Language Reference: 
+https://docs.arduino.cc/language-reference/?_gl=1*h72rbq*_up*MQ..*_ga*MTk3MzU3MzQ3Mi4xNzU0NDc3NTc2*_ga_NEXN8H46L5*czE3NTQ0Nzc1NzQkbzEkZzEkdDE3NTQ0Nzc1OTckajM3JGwwJGgyMDQwOTI5MTYw
+
+Arduino Learn Website: 
+https://docs.arduino.cc/learn/?_gl=1*h72rbq*_up*MQ..*_ga*MTk3MzU3MzQ3Mi4xNzU0NDc3NTc2*_ga_NEXN8H46L5*czE3NTQ0Nzc1NzQkbzEkZzEkdDE3NTQ0Nzc1OTckajM3JGwwJGgyMDQwOTI5MTYw

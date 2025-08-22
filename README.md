@@ -42,42 +42,9 @@ ArduinoFactory.com : https://arduinofactory.com/
 
 ------
 
-
-INSPIRING PROJECTS
-
-Adafruit.com : https://learn.adafruit.com/
-
-Arduino Project Hub : https://projecthub.arduino.cc/?_gl=1*1y39wxl*_up*MQ..*_ga*Njk0NTcxMzIuMTc1NDU2OTg5NA..*_ga_NEXN8H46L5*czE3NTQ1Njk4OTMkbzEkZzAkdDE3NTQ1Njk4OTMkajYwJGwwJGg0MzExODgxNDk.
-
-Elektor Magazine : https://www.elektormagazine.com/
-
-Hackster.io : https://www.hackster.io/projects
-
-MakerGuides.com : https://www.makerguides.com/
-
-Make Magazine : https://makezine.com/projects/
-
-ScienceBuddies.org : https://www.sciencebuddies.org/search?prop=arduino&ytid=3hoBwa0ccys&ytsrc=description
-
-SparkFun Projects : https://learn.sparkfun.com/tutorials
+Last update : 2025
 
 
-------
 
-BUY ELECTRONICS UK
-
-Atom LED : https://atomled.co.uk/
-
-Cool Components : https://coolcomponents.co.uk/
-
-Kitronik : https://kitronik.co.uk/
-
-Pimoroni : https://shop.pimoroni.com/
-
-Proto-Pic : https://proto-pic.co.uk/
-
-RS-Components : https://uk.rs-online.com/web/?msockid=261b4ec2fa2a669704175a17fb9167d1
-
-The Pi Hut : https://thepihut.com/
 
 
